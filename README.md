@@ -1,7 +1,19 @@
 # Berkshire-Shareholder-Letter-Sentiment-Analysis
 
+## Bert fine_tuning with app review dataset
 
-## Bert fine_tunning with app review dataset
+#### By using app review dataset, Fine tuning Bert and applied it to Berkshire Hathaway's letters for share-holder and performed sentiment analysis.
+
+- (BERT: Pre-training of Deep Bidirectional Transformers)
+
+    - [BERT_24 May 2019](https://github.com/syh0397/Berkshire-Shareholder-Letter-Sentiment-Analysis/files/7808837/1810.04805.pdf)
+```
+As a result, the pre-trained BERT model can be fine-tuned 
+with just one additional output layer to create state-of-the-art models 
+for a wide range of tasks, such as question answering and language inference, 
+without substantial task-specific architecture modifications.
+```
+
 ![002](https://user-images.githubusercontent.com/75018963/116491992-2577ad80-a8d6-11eb-94ae-449043868574.png)
 
 
